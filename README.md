@@ -1,12 +1,13 @@
-## Greetings...
+## Welcome to my GitHub!
 
-I am Ahljenn (He/Him/His). I am currently a computer science student who is interested in full-stack software engineering. I develop software targeted to aid individuals in an educational and health setting.
+Greetings! I am Ahljenn (He/him/his), and I'm excited to have you here. As a recent graduate from the University of California, I have a strong passion for full-stack software engineering. I enjoy building software solutions that make a positive impact, particularly in the fields of education and health.
 
-> 🤔 I'm deeply interested in learning new technologies and building projects. 
->
-> 🔭 I'm currently learning new frameworks in order to accelerate development in complex systems.
->
+🤔 I'm constantly seeking new frameworks and technologies, and I thrive on learning cutting-edge technologies to enhance my development capabilities.
 
-Thanks for visiting. 
+🔭 Currently, I'm diving deep into various frameworks that empower me to expedite the development process for complex systems.
 
-#### Lastly, view my portfolio [here](https://ahljenn.vercel.app/)!
+Feel free to explore my repositories and projects. I'm always looking for new opportunities to collaborate, innovate, and grow. If you have any questions or suggestions, please don't hesitate to reach out.
+
+Thanks for stopping by!
+
+#### Lastly, you can check out my full portfolio [here](https://ahljenn.vercel.app/).
