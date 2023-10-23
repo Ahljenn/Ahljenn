@@ -9,5 +9,3 @@ Greetings! I am Ahljenn (He/him/his), and I'm excited to have you here. As a rec
 Feel free to explore my repositories and projects. I'm always looking for new opportunities to collaborate, innovate, and grow. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Thanks for stopping by!
-
-#### Lastly, you can check out my full portfolio [here](https://ahljenn.vercel.app/).
