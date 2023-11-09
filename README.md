@@ -1,5 +1,7 @@
 ## Welcome to my GitHub!
 
+### View my work: [Portfolio](https://ahljenn.vercel.app/).
+
 Greetings! I am Ahljenn (He/him/his), and I'm excited to have you here. As a recent graduate from the University of California, I have a strong passion for full-stack software engineering. I enjoy building software solutions that make a positive impact, particularly in the fields of education and health.
 
 🤔 I'm constantly seeking new frameworks and technologies, and I thrive on learning cutting-edge technologies to enhance my development capabilities.
